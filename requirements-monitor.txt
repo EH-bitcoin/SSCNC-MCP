@@ -1,0 +1,2 @@
+# Optional native observer for completion_monitor.
+frida==17.27.4

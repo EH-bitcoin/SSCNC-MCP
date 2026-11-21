@@ -1,0 +1,12 @@
+[mcp_servers.sscnc]
+command = 'C:\src\SSCNC-MCP\.venv\Scripts\python.exe'
+args = ["-u", 'C:\src\SSCNC-MCP\server.py']
+cwd = 'C:\src\SSCNC-MCP'
+startup_timeout_sec = 30
+tool_timeout_sec = 120
+
+[mcp_servers.sscnc.env]
+PYTHONUTF8 = "1"
+PYTHONIOENCODING = "utf-8"
+SSCNC_INSTALL_DIR = 'C:\Apps\SSCNC'
+SSCNC_WORKSPACE = 'C:\SSCNC-output'

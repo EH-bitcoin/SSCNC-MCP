@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "sscnc": {
+      "command": "C:\\src\\SSCNC-MCP\\.venv\\Scripts\\python.exe",
+      "args": ["-u", "C:\\src\\SSCNC-MCP\\server.py"],
+      "env": {
+        "PYTHONUTF8": "1",
+        "PYTHONIOENCODING": "utf-8",
+        "SSCNC_INSTALL_DIR": "C:\\Apps\\SSCNC",
+        "SSCNC_WORKSPACE": "C:\\SSCNC-output"
+      }
+    }
+  }
+}
