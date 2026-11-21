@@ -108,4 +108,4 @@ SSCNC-MCP/
 | `unsaved_document` | 保存当前编辑，再重试加载 |
 | `analysis_environment_unavailable` | 检查 [核验脚本配置](docs/validator.md) 和对应 Python 环境 |
 
-文档结构参考 [CAD-MCP](https://github.com/daobataotie/CAD-MCP)。SSCNC 由用户单独安装。
+SSCNC 由用户单独安装
